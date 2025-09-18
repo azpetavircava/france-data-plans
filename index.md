@@ -58,3 +58,10 @@ layout: default
 
 　　希望这份指南能帮你扫清迷雾。在巴黎的咖啡馆里，悠闲地刷着手机分享照片，不就是我们旅途中最想要的瞬间之一吗？
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [France SIM 卡购买与激活指南](https://faciylike.github.io/france-sim-guides)
